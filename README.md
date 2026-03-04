@@ -133,8 +133,6 @@ I genuinely love sharing what I know and giving back to communities, while learn
 
 ---
 
-## GitHub Stats (With Extra Picks)
-
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EunHyeokJung&show_icons=true&theme=tokyonight&hide_border=true)
