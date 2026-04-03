@@ -120,16 +120,16 @@ I genuinely love sharing what I know and giving back to communities, while learn
 ### AI Tools
 
 ![Codex](https://img.shields.io/badge/Codex-C0C0C0?style=for-the-badge)
-![Windsurf](https://img.shields.io/badge/Windsurf-FFF3F2?style=for-the-badge)
+![Copilot](https://img.shields.io/badge/Copilot-111111?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-111111?style=for-the-badge)
 
 ![AGENTS.MD](https://img.shields.io/badge/AGENTS.MD-111111?style=for-the-badge)
-![SPEC-DRIVEN](https://img.shields.io/badge/SPEC--DRIVEN-800080?style=for-the-badge)
+![DOCS-to-SINGLE_TRUTH](https://img.shields.io/badge/DOCS--to--SINGLE__TRUTH-1F2937?style=for-the-badge)
 
 #### Frequently Used Models
-![GPT-5.3-Codex](https://img.shields.io/badge/GPT--5.3--Codex-10A37F?style=for-the-badge)
-![Claude-4.6-Opus](https://img.shields.io/badge/Claude--4.6--Opus-D97757?style=for-the-badge)
-![Gemini 3.1 Flash](https://img.shields.io/badge/Gemini_3.1_Flash-4285F4?style=for-the-badge)
+![GPT-5.4](https://img.shields.io/badge/GPT--5.4-10A37F?style=for-the-badge)
+![CLAUDE OPUS 4.6](https://img.shields.io/badge/CLAUDE_OPUS_4.6-D97757?style=for-the-badge)
+![GEMINI 3.1 PRO](https://img.shields.io/badge/GEMINI_3.1_PRO-4285F4?style=for-the-badge)
 
 ---
 
