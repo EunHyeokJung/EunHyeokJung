@@ -20,7 +20,7 @@ I genuinely love sharing what I know and giving back to communities, while learn
 ### Recent Projects
 
 - AI Assistant for GDG Organizer: *[In progress]*
-- Community promotion/operations back-office: [gdgoc-kangnam.site](https://gdgoc-kangnam.site)
+- Community promotion/operations back-office: [gdg-kangnam.site](https://gdg-kangnam.site)
 - Hackathon onboarding/operations back-office & Discord bot: [onewave-bot.web.app](https://onewave-bot.web.app)
 - Hackathon promotion/onboarding website: [kangnengthon.site](https://kangnengthon.site)
 
