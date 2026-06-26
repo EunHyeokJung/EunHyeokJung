@@ -35,11 +35,14 @@ I genuinely love sharing what I know and giving back to communities, while learn
 
 ## Experience
 
-### Product Planning & Frontend Engineer (Sep 2024 - Present)
+### Product Planning & Frontend Engineer (Sep 2024 - May 2026)
 - Building a real-time dashboard and back-office platform used in hospitals, integrating AI + IoT workflows.
 - Joined as an early team member and led service planning by translating requirements into clear, actionable specs.
 - Designed the product architecture and built the design system foundation, including reusable components and a shared theme system.
 - Designed an in-house real-time communication architecture that reduced resource usage by 67%.
+
+### Entrepreneur(Co-founder); Tech & Strategy (June 2026 - Present)
+- Building, teaching, sharing something fun.
 
 ## Community Leadership
 ### Organizer | GDG on Campus Kangnam University (2024-present)
