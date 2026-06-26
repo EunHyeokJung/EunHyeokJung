@@ -2,7 +2,7 @@
 
 # Hey, I'm EunHyeok Jung 👋
 
-### Frontend Developer at a Startup & Community Organizer
+### Developer & Community Organizer
 
 _"Discomfort and laziness drive innovation."_
 
